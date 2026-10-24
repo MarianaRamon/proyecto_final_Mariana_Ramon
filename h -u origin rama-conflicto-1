@@ -1,0 +1,11 @@
+*   [33mee2b93f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrama-conflicto-1[m[33m)[m Resolver conflicto entre las dos ramas
+[31m|[m[32m\[m  
+[31m|[m * [33m2399ddf[m[33m ([m[1;32mrama-conflicto-2[m[33m)[m Segunda version del documento
+* [32m|[m [33m929b8e9[m Primera version del documento
+[32m|[m[32m/[m  
+* [33m60029a4[m[33m ([m[1;31morigin/rama-pruebas[m[33m, [m[1;32mrama-pruebas[m[33m)[m editado por ...
+* [33m3d363ff[m prueba
+* [33m96a062e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Casos Manuales v1
+* [33mba141f0[m Actualización de documentos
+* [33m6d60bc0[m Estructura principal del proyecto
+* [33m6f15bb2[m Initial commit
